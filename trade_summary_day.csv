@@ -1,0 +1,6 @@
+,Naive,Naive,Naive,Naive,SV,SV,SV,SV,TI,TI,TI,TI,Full,Full,Full,Full,Hybrid,Hybrid,Hybrid,Hybrid
+,Accuracy,Pos_trade_pct,Neg_trade_pct,Total_transac_pct,Accuracy,Pos_trade_pct,Neg_trade_pct,Total_transac_pct,Accuracy,Pos_trade_pct,Neg_trade_pct,Total_transac_pct,Accuracy,Pos_trade_pct,Neg_trade_pct,Total_transac_pct,Accuracy,Pos_trade_pct,Neg_trade_pct,Total_transac_pct
+"('metric', 'learning_rate', 'epochs')",,,,,,,,,,,,,,,,,,,,
+"('custom_f1_score', 0.001, 30)",0.31,100%,0%,49%,0.18,72%,28%,100%,0.24,100%,0%,92%,0.63,100%,0%,0%,0.24,100%,0%,92%
+"('custom_precision', 0.001, 30)",0.19,100%,0%,100%,0.19,22%,78%,100%,0.63,0%,100%,1%,0.19,100%,0%,99%,0.63,0%,100%,1%
+"('custom_recall', 0.001, 30)",0.24,100%,0%,78%,0.21,100%,0%,94%,0.19,100%,0%,100%,0.29,51%,49%,89%,0.21,100%,0%,94%
